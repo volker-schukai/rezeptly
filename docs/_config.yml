@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
+title: Rezepte von Volker Schukai 
+description: Rezeptübersicht für den täglichen Bedarf
+
+show_downloads: false
+
