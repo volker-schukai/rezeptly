@@ -1,4 +1,4 @@
-#rezept #backen #überarbeitet #published/rezept  
+#rezept #backen #published/rezept  
 
 # Rezept für 8 Waffeln
 
@@ -8,7 +8,7 @@
 | -------:|:------------- |
 |   125 g | weiche Butter |
 |    50 g | Zucker        |
-|   50 gr | Vanillezucker |
+|    50 g | Vanillezucker |
 |       3 | Eier          |
 |   250 g | Mehl          |
 | 1 Prise | Salz          |
@@ -17,7 +17,7 @@
 
 ## Zubereitung
 
-125 g Butter mit 50 g Zucker und 50 gr Vanillezucker verrühren. 
+125 g Butter mit 50 g Zucker und 50 g Vanillezucker verrühren. 
 
 3 Eier nach und nach unterrühren. 
 
