@@ -1,7 +1,5 @@
 #rezept #backen #überarbeitet #published/rezept  
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
-
 # Rezept für 8 Waffeln
 
 ## Vorbereitung
