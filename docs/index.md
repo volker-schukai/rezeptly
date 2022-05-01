@@ -1,6 +1,9 @@
 #rezept 
 
+Private Seite und Nutzung auf eigene Gefahr!
 
+
+# Rezepte
 
 ## Süßspeisen
 
@@ -14,10 +17,6 @@
 
 
 
-## Impressum
+**Impressum**
 
-Volker Schukai
-Eichenstraße 26
-82290 Landsberied
-08141-5098888
-info+rezept@schukai.org
+Volker Schukai • Eichenstraße 26 • 82290 Landsberied • 08141-5098888 • info+rezept@schukai.org
