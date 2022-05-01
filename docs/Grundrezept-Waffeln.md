@@ -1,13 +1,8 @@
 #rezept #backen #überarbeitet #published/rezept  
 
----
-layout: post
-title: "Welcome to Jekyll!" 
----
+[Rezeptuebersicht](./Rezeptuebersicht.md)
 
-[Rezeptuebersicht](Küche/Rezeptuebersicht.md)
-
-Rezept für 8 Waffeln
+# Rezept für 8 Waffeln
 
 ## Vorbereitung
 

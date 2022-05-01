@@ -4,7 +4,7 @@
 
 ## Süßspeisen
 
-- [Grundrezept-Waffeln](Grundrezept-Waffeln.md)
+- [Grundrezept-Waffeln](./Grundrezept-Waffeln.md)
 
 
 
