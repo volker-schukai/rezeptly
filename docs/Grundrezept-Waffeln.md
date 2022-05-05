@@ -1,7 +1,3 @@
----
-tags: rezept backen 
----
-
 #rezept #backen #published/rezept  
 
 # Rezept für 8 Waffeln
@@ -31,4 +27,4 @@ Jetzt 200 ml Milch langsam unterrühren.
 
 Waffeleisen vorheizen und je 2 gehäufte Esslöffel Teig auf das Waffeleisen geben. 
 
-Jede Waffel etwa 7 Minuten backen. 
+Jede Waffel goldbraun backen (7 Minuten). 

@@ -1,6 +1,6 @@
 #rezept 
 
-Private Seite und Nutzung auf eigene Gefahr!
+
 
 
 # Rezepte
@@ -8,15 +8,10 @@ Private Seite und Nutzung auf eigene Gefahr!
 ## Süßspeisen
 
 - [Grundrezept-Waffeln](./Grundrezept-Waffeln.md)
+- [Schoko-Muffins-mit-Herz](Küche/Schoko-Muffins-mit-Herz.md)
 
 
 
+Private Seite und Nutzung, Nachkochen und backen auf eigene Gefahr.
 
 
-
-
-
-
-**Impressum**
-
-Volker Schukai • Eichenstraße 26 • 82290 Landsberied • 08141-5098888 • info+rezept@schukai.org
