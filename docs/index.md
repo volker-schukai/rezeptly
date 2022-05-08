@@ -5,6 +5,10 @@
 
 # Rezepte
 
+## Pizza
+
+- [Pizzateig-Grundrezept](Küche/Pizzateig-Grundrezept.md)
+
 ## Suppen
 
 - [Spargelsuppe-Grundrezept](./Spargelsuppe-Grundrezept.md)
