@@ -1,7 +1,5 @@
 #rezept #backen #published/rezept  
 
-# Rezept für 8 Waffeln
-
 ## Vorbereitung
 
 |   Menge | Zutat         |
