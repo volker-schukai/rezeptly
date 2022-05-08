@@ -7,7 +7,7 @@
 
 ## Pizza
 
-- [Pizzateig-Grundrezept](Küche/Pizzateig-Grundrezept.md)
+- [Pizzateig-Grundrezept](./Pizzateig-Grundrezept.md)
 
 ## Suppen
 
