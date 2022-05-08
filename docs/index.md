@@ -15,10 +15,10 @@
 
 ## Süßspeisen
 
-- [Waffeln-Grundrezept](Küche/Waffeln-Grundrezept.md)
+- [Waffeln-Grundrezept](./Waffeln-Grundrezept.md)
 - [Schoko-Muffins-mit-Herz](./Schoko-Muffins-mit-Herz.md)
 - [Creme-Brulee](./Creme-Brulee.md)
-- [Pfannkuchen-Grundrezept](Küche/Pfannkuchen-Grundrezept.md)
+- [Pfannkuchen-Grundrezept](./Pfannkuchen-Grundrezept.md)
 
 ## Kuchen
 
