@@ -2,17 +2,17 @@
 
 ## Vorbereitung
 
-|  Menge | Zutat          |
-| ------:|:-------------- |
-|  150 g | weiche Butter  |
-| 100 ml | Milch          | 
-|   70 g | Zucker         |
-|      1 | Ei             |
-|  25 ml | Espresso       |
-|  400 g | Mehl           |
-|   16 g | Backpulver     |
-|   30 g | Vanillezucker  |
-|    2 g | Zitronenschale |
+|   Menge | Zutat          |
+| -------:|:-------------- |
+|   150 g | weiche Butter  |
+|  100 ml | Milch          |
+|   130 g | Zucker         |
+|       1 | Ei             |
+| 1 Tasse | Espresso       |
+|   400 g | Mehl           |
+|    16 g | Backpulver     |
+|    30 g | Vanillezucker  |
+|     2 g | Zitronenschale |
 
 ## Zubereitung
 
@@ -28,12 +28,12 @@ Die Flüssigkeit mit dem Schneebesen schaumig schlagen.
 
 25 ml kalten Espresso hinzugeben und verrühren.
 
-400 g Mehl mit 70 g Zucker,  25 g Backpulver und 30 g Vanillezucker vermischen.
+400 g Mehl mit 130 g Zucker,  25 g Backpulver und 30 g Vanillezucker vermischen.
 
 Die Mehl-Mischung unter ständigen Rühren langsam zum Butter-Gemisch hinzugeben 
 
 Den Teig in eine gefettete oder mit Backpapier ausgelegte Form füllen.
 
-Bei ca. 190° mindestens 55 Minuten backen.
+Bei ca. 190° mindestens 60 Minuten backen.
 
 
