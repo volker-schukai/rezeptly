@@ -23,6 +23,7 @@
 ## Kuchen
 
 - [Einfacher-Kaffeekuchen](./Einfacher-Kaffeekuchen.md)
+- [Gugelhupf](Küche/Gugelhupf.md)
 
 
 Private Seite; Nutzung, nachkochen und backen auf eigene Gefahr.
