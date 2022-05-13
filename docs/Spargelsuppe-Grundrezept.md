@@ -4,17 +4,17 @@
 
 ## Vorbereitung
 
-|   Menge | Zutat         |
-| -------:|:------------- |
-|   250 g | Spargel       |
-|    40 g | Butter        |
-|    40 g | Mehl          |
-|     1 l | Wasser |
-|       1 | Eigelb        |
-|    3 EL | Sahne         |
-| 1 Prise | Salz          |
-|    1 TL | Zucker        |
-|     2 g | Muskat        |
+|   Menge | Zutat   |
+| -------:|:------- |
+|   250 g | Spargel |
+|    40 g | Butter  |
+|    40 g | Mehl    |
+|     1 l | Wasser  | 
+|       1 | Eigelb  |
+|    3 EL | Sahne   |
+| 1 Prise | Salz    |
+|    1 TL | Zucker  |
+|     2 g | Muskat  |
 
 ## Zubereitung
 
