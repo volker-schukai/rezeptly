@@ -25,9 +25,10 @@
 - [Einfacher-Kaffeekuchen](./Einfacher-Kaffeekuchen.md)
 - [Gugelhupf](./Gugelhupf.md)
 
+---
 
-Private Seite; Nutzung, nachkochen und backen auf eigene Gefahr.
-Volker Schukai • Eichenstraße 26 • 82290 Landsberied
-rezept@schukai.org • 08141-5098888
+Private Seite; Nutzung, nachkochen und backen auf eigene Gefahr.<br>
+Volker Schukai • Eichenstraße 26 • 82290 Landsberied<br>
+rezept@schukai.org • 08141-5098888<br>
 
 
