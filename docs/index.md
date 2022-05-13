@@ -27,5 +27,7 @@
 
 
 Private Seite; Nutzung, nachkochen und backen auf eigene Gefahr.
+Volker Schukai • Eichenstraße 26 • 82290 Landsberied
+rezept@schukai.org • 08141-5098888
 
 

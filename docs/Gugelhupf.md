@@ -11,7 +11,7 @@
 |   20 g | Vanillezucker  |
 |      5 | Eier           |
 |  500 g | Mehl           |
-|    7 g | Backpulver     |
+|    16 g | Backpulver     |
 | 100 ml | Milch          |
 
 ## Zubereitung
