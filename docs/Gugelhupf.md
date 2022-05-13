@@ -6,7 +6,6 @@
 
 |  Menge | Zutat          |
 | ------:|:-------------- |
-|  250 g | Spargel        |
 |  250 g | Butter (weich) |
 |  280 g | Zucker         |
 |   20 g | Vanillezucker  |
