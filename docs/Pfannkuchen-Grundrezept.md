@@ -5,8 +5,8 @@
 |   Menge | Zutat           |
 | -------:|:--------------- |
 |    60 g | Mehl            |
-|  150 ml | Milch           |
-|       2  | Eier                |
+|  150 ml | Milch           | 
+|       2 | Eier            |
 | 1 Prise | Salz            |
 | 1 Prise | Zucker          |
 |    15 g | geklärte Butter |

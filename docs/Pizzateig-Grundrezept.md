@@ -2,12 +2,12 @@
 
 ## Vorbereitung
 
-| Menge | Zutat       |
-| -----:| ----------- |
-| 250 g | Mehl Tipo 00     |
-|   8 g | Trockenhefe |
-|   8 g | Salz        |
-|   150 ml    | warmes Wasser            |
+|  Menge | Zutat         |
+| ------:| ------------- |
+|  250 g | Mehl Tipo 00  |
+|    8 g | Trockenhefe   |
+|    8 g | Salz          |
+| 150 ml | warmes Wasser | 
 
 ## Zubereitung
 

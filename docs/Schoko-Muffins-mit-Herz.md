@@ -4,13 +4,13 @@
 
 ## Vorbereitung
 
-|    Menge        |   Zutat                    |
-| -------:|:------------- |
-| 75 g       | Zartbitterschokolade |
-| 50 g       | Butter               |
-| 2          | Ei(er)               |
-| 50 g       | Zucker               |
-| 1 EL       | Mehl                 |
+|      Menge | Zutat                |
+| ----------:|:-------------------- |
+|       75 g | Zartbitterschokolade |
+|       50 g | Butter               |
+|          2 | Eier                 | 
+|       50 g | Zucker               |
+|       1 EL | Mehl                 |
 | 1 Prise(n) | Salz                 |
 | 7 Stück(e) | Vollmilchschokolade  |
 
