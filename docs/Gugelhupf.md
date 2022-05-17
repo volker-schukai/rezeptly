@@ -1,7 +1,5 @@
 #rezept #published/rezept  #kuchen 
 
-# Grundrezept Spargelsuppe
-
 ## Vorbereitung
 
 |  Menge | Zutat          |

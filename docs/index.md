@@ -5,6 +5,11 @@
 
 # Rezepte
 
+## Hauptgerichte
+
+- [Moussaka](./Moussaka.md)
+- [Tafelspitz](./Tafelspitz.md)
+
 ## Pizza
 
 - [Pizzateig-Grundrezept](./Pizzateig-Grundrezept.md)
