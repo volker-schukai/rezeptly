@@ -9,6 +9,7 @@
 
 - [Moussaka](./Moussaka.md)
 - [Tafelspitz](./Tafelspitz.md)
+- [Fleischpflanzerl](Eingang/Fleischpflanzerl.md)
 
 ## Pizza
 
