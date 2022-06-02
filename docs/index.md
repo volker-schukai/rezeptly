@@ -1,35 +1,27 @@
 #rezept 
 
-
-
-
-# Rezepte
-
 ## Hauptgerichte
 
 - [Moussaka](./Moussaka.md)
 - [Tafelspitz](./Tafelspitz.md)
 - [Fleischpflanzerl](./Fleischpflanzerl.md)
-- [Sauce-Bolognese](./Sauce-Bolognese.md)
-
-## Pizza
-
-- [Pizzateig-Grundrezept](./Pizzateig-Grundrezept.md)
+- [Sauce Bolognese](./Sauce-Bolognese.md)
+- [Pizzateig Grundrezept](./Pizzateig-Grundrezept.md)
 
 ## Suppen
 
-- [Spargelsuppe-Grundrezept](./Spargelsuppe-Grundrezept.md)
+- [Spargelsuppe Grundrezept](./Spargelsuppe-Grundrezept.md)
 
 ## Süßspeisen
 
-- [Waffeln-Grundrezept](./Waffeln-Grundrezept.md)
-- [Schoko-Muffins-mit-Herz](./Schoko-Muffins-mit-Herz.md)
+- [Waffeln Grundrezept](./Waffeln-Grundrezept.md)
+- [Schoko Muffins mit Herz](./Schoko-Muffins-mit-Herz.md)
 - [Creme-Brulee](./Creme-Brulee.md)
-- [Pfannkuchen-Grundrezept](./Pfannkuchen-Grundrezept.md)
+- [Pfannkuchen Grundrezept](./Pfannkuchen-Grundrezept.md)
 
 ## Kuchen
 
-- [Einfacher-Kaffeekuchen](./Einfacher-Kaffeekuchen.md)
+- [Einfacher Kaffeekuchen](./Einfacher-Kaffeekuchen.md)
 - [Gugelhupf](./Gugelhupf.md)
 
 ---
