@@ -26,8 +26,11 @@
 
 ---
 
-Private Seite; Nutzung, nachkochen und backen auf eigene Gefahr.<br>
+Private Seite; Nutzung, nachmachen, nachkochen und backen auf eigene Gefahr.<br>Lebensmittel haben auch Gefühle.<br>Kann Spuren von Ungenauigkeit enthalten.<br>
+Kinder haften für Ihre Eltern und 42<br>
 Volker Schukai • Eichenstraße 26 • 82290 Landsberied<br>
 rezept@schukai.org • 08141-5098888<br>
+
+
 
 
