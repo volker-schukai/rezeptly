@@ -8,6 +8,10 @@
 - [Sauce Bolognese](./Sauce-Bolognese.md)
 - [Pizzateig Grundrezept](./Pizzateig-Grundrezept.md)
 
+## Beilagen
+
+- [Sour-Cream](./Sour-Cream.md)
+
 ## Suppen
 
 - [Spargelsuppe Grundrezept](./Spargelsuppe-Grundrezept.md)
