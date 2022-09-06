@@ -1,4 +1,4 @@
-# Kartoffelpueree
+# Kartoffelpüree
 
 #rezept #published/rezept  
 
