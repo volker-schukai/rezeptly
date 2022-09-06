@@ -12,7 +12,7 @@
 ## Beilagen
 
 - [Sour-Cream](./Sour-Cream.md)
-- [Kartoffelpüree](./KARTOFFELPUEREE.md)
+- [Kartoffelpüree](./Kartoffelpueree.md)
 
 ## Suppen
 
