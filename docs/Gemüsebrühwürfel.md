@@ -1,4 +1,4 @@
-# Kartoffelpüree
+# Gemüsebrühwürfel
 
 #published/rezept  
 
@@ -10,12 +10,12 @@
 |     1 | Lauch                |
 |     1 | Pastinake            |
 |     1 | Zwiebel              |
-|     1 | Wurzelpetersilie    |
+|     1 | Wurzelpetersilie     |
 |     2 | Knoblauchzehen       |
-|     1 | Kohlrabi              |
+|     1 | Kohlrabi             |
 |     1 | Sellerie mit Blätter |
-|  4 | Petersilie Stängel          |
-|  70 g | Salz                     |
+|     4 | Petersilie Stängel   |
+|  70 g | Salz                 |
 
 ## Zubereitung
 
@@ -31,5 +31,5 @@ Das Gemüse nun pürieren und im Anschluss die Masse dünn auf Backpapier auftra
 
 Im Gefrierschrank einfrieren.
 
-Die gefrorene Masse portiionierern.
+Die gefrorene Masse portionieren.
 

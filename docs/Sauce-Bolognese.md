@@ -20,7 +20,7 @@
 
 ## Zubereitung
 
-Zuerst wird das Soffritto hergestellt.
+Zuerst wird das [Soffritto](https://de.wikipedia.org/wiki/Soffritto) hergestellt.
 
 125 g Butter in einer Pfanne erhitzen. 2 cl Olivenöl hinzugeben.
 
