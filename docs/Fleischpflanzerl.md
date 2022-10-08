@@ -1,7 +1,5 @@
 # Fleischpflanzerl
 
-#rezept #published/rezept 
-
 ## Vorbereitung
 
 |   Menge | Zutat                 |
@@ -27,3 +25,5 @@ Zum Hack kommt das Ei, die eingeweichte und gut ausgedrückte Semmel, die gewür
 Die Masse gut verkneten und abschmecken (Salz, Pfeffer,  Oregano, Majoran)
 
 In Olivenöl braten.
+
+[Rezeptuebersicht](./Rezeptuebersicht.md)

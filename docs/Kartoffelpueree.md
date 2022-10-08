@@ -1,7 +1,5 @@
 # Kartoffelpüree
 
-#rezept #published/rezept  
-
 ## Vorbereitung
 
 | Menge | Zutat              |
@@ -31,8 +29,4 @@ Stampfen und die restliche Milch zugeben (je nach gewünschter Festigkeit mehr o
 
 Abschmecken
 
-
-
-
-
-
+[Rezeptuebersicht](./Rezeptuebersicht.md)

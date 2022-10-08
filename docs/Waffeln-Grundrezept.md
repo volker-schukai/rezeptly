@@ -1,7 +1,5 @@
 # Waffeln-Grundrezept
 
-#rezept #backen #published/rezept  
-
 ## Vorbereitung
 
 |   Menge | Zutat         |
@@ -28,3 +26,5 @@ Jetzt 200 ml Milch langsam unterrühren.
 Waffeleisen vorheizen und je 2 gehäufte Esslöffel Teig auf das Waffeleisen geben. 
 
 Jede Waffel goldbraun backen (7 Minuten). 
+
+[Rezeptuebersicht](./Rezeptuebersicht.md)

@@ -1,7 +1,5 @@
 # Einfacher-Kaffeekuchen
 
-#rezept #backen #published/rezept  
-
 ## Vorbereitung
 
 |   Menge | Zutat          |
@@ -38,4 +36,4 @@ Den Teig in eine gefettete oder mit Backpapier ausgelegte Form füllen.
 
 Bei ca. 190° mindestens 60 Minuten backen.
 
-
+[Rezeptuebersicht](./Rezeptuebersicht.md)

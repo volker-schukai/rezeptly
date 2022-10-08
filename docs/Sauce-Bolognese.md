@@ -1,7 +1,5 @@
 # Sauce Bolognese
 
-#rezept #nudel #published/rezept  
-
 ## Vorbereitung
 
 |     Menge | Zutat           |
@@ -40,7 +38,7 @@ Jetzt das Soffritto hinzugeben. Weiter köcheln lassen.
 
 Mit Salz, Pfeffer und Oregano abschmecken.
 
-
+[Rezeptuebersicht](./Rezeptuebersicht.md)
 
 
 

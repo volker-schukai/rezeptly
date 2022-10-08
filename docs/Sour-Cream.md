@@ -1,8 +1,6 @@
 
 # Sour Cream
 
-#rezept  #published/rezept  
-
 ## Vorbereitung
 
 |   Menge | Zutat           |
@@ -28,6 +26,7 @@ Etwas Oregano dazugeben.
 
 Alles vermischen und kaltstellen.
 
+[Rezeptuebersicht](./Rezeptuebersicht.md)
 
 
 

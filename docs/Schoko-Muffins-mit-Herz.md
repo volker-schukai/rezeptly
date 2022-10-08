@@ -1,7 +1,5 @@
 # Schoko-Muffins mit Herz
 
-#rezept #backen #published/rezept  
-
 ## Vorbereitung
 
 |      Menge | Zutat                |
@@ -28,3 +26,4 @@ Jeweils ein Stück Vollmilchschokolade in die Mitte des Teiges geben und etwas h
 
 Im Backofen bei 220 °C etwa 10 Minuten backen.
 
+[Rezeptuebersicht](./Rezeptuebersicht.md)

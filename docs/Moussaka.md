@@ -1,5 +1,4 @@
 # Moussaka
-#rezept #published/rezept  
 
 ## Vorbereitung 
 
@@ -14,13 +13,13 @@
 |        1 | Zwiebel                       |
 |        1 | Knoblauchzehe                 |
 |        2 | mittelgroße Tomaten           |
-|     1 TL | Tomatenmark                   |
+|      5 g | Tomatenmark                   |
 |  1 Prise | Zimt                          |
 |  1 Prise | Salz                          |
 |  1 Prise | Pfeffer                       |
 |  1 Prise | Oregano                       |
 |    150 g | Käse                          |
-|     1 EL | Butter                        | 
+|     20 g | Butter                        |
 |     30 g | Mehl                          |
 |   250 ml | Milch                         |
 |  1 Prise | Salz                          |
@@ -56,4 +55,6 @@ Aubergine, Hackfleisch und Zucchini in die Form stapeln und mit den Kartoffelsch
 
 Das "gestapelte" Gericht mit der vorbereiteten Soße übergießen und den Käse darüber reiben
 .
-Die gefüllte Auflaufform im vorgeheizten Backrohr bei 180C° Ober-Unterhitze ca. 15 min. backen.
+Die gefüllte Auflaufform im vorgeheizten Backrohr bei 180 °C Ober-Unterhitze ca. 15 min. backen.
+
+[Rezeptuebersicht](./Rezeptuebersicht.md)
