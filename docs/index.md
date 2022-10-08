@@ -17,7 +17,7 @@
 ## Suppen
 
 - [Spargelsuppe Grundrezept](./Spargelsuppe-Grundrezept.md)
-- [Gemüsebrühwürfel](./Gemüsebrühwürfel.md)
+- [Gemuesebruehwuerfel](./Gemuesebruehwuerfel.md)
 
 ## Süßspeisen
 

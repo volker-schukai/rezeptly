@@ -1,7 +1,5 @@
 # Gemüsebrühwürfel
 
-#published/rezept  
-
 ## Vorbereitung
 
 | Menge | Zutat                |
