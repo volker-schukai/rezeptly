@@ -1,9 +1,8 @@
 Hallo, willkommen auf meiner Rezept-Seite. 
 
 Nutzung, nachmachen, nachkochen und backen auf eigene Gefahr.
-Kann Spuren von Ungenauigkeit enthalten. Kinder haften für Ihre Eltern und 42.
 
-<br><br>
+Kann Spuren von Ungenauigkeit enthalten. Kinder haften für Ihre Eltern und 42.
 
 Und, Lebensmittel haben **auch** Gefühle. Ansonsten viel Spaß beim ausprobieren.
 
