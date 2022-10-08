@@ -1,4 +1,9 @@
-#rezept 
+Hallo, willkommen auf meiner Rezept-Seite. 
+
+Nutzung, nachmachen, nachkochen und backen auf eigene Gefahr.<br> 
+Kann Spuren von Ungenauigkeit enthalten. Kinder haften für Ihre Eltern und 42<br><br>
+
+Und, Lebensmittel haben auch Gefühle. Ansonsten viel Spaß beim ausprobieren.
 
 ## Hauptgerichte
 
@@ -17,7 +22,7 @@
 ## Suppen
 
 - [Spargelsuppe Grundrezept](./Spargelsuppe-Grundrezept.md)
-- [Gemuesebruehwuerfel](./Gemuesebruehwuerfel.md)
+- [Gemüsebrühwürfel](./Gemuesebruehwuerfel.md)
 
 ## Süßspeisen
 
@@ -33,9 +38,7 @@
 
 ---
 
-Private Seite; Nutzung, nachmachen, nachkochen und backen auf eigene Gefahr.<br>Lebensmittel haben auch Gefühle.<br>Kann Spuren von Ungenauigkeit enthalten.<br>
-Kinder haften für Ihre Eltern und 42<br>
-Volker Schukai • Eichenstraße 26 • 82290 Landsberied<br>
+Private Seite von Volker Schukai • Eichenstraße 26 • 82290 Landsberied<br>
 rezept@schukai.org • 08141-5098888<br>
 
 
