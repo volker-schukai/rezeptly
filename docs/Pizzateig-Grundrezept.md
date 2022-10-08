@@ -21,4 +21,4 @@ Danach in einem verschließbaren Behälter mindestens drei Stunden ruhen lassen.
 
 Teig mit der Hand auseinanderziehen.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)

@@ -57,4 +57,4 @@ Das "gestapelte" Gericht mit der vorbereiteten Soße übergießen und den Käse 
 .
 Die gefüllte Auflaufform im vorgeheizten Backrohr bei 180 °C Ober-Unterhitze ca. 15 min. backen.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)

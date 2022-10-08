@@ -35,4 +35,4 @@ Pfannkuchenteig in die Pfanne gießen.
 
 Sobald die Oberfläche fest wird, den Pfannkuchen wenden.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)

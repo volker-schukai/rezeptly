@@ -31,5 +31,5 @@ Im Gefrierschrank einfrieren.
 
 Die gefrorene Masse portionieren.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)
 

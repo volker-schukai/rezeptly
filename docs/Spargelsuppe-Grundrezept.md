@@ -40,4 +40,4 @@ Die pürierten Spargel hinzugeben.
 
 Zum Schluss die Spargelsuppe mit Zucker, Salz, Pfeffer, Muskat und Zitronensaft abschmecken.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)

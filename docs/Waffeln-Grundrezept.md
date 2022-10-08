@@ -27,4 +27,4 @@ Waffeleisen vorheizen und je 2 gehäufte Esslöffel Teig auf das Waffeleisen geb
 
 Jede Waffel goldbraun backen (7 Minuten). 
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)

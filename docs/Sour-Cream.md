@@ -26,7 +26,7 @@ Etwas Oregano dazugeben.
 
 Alles vermischen und kaltstellen.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)
 
 
 

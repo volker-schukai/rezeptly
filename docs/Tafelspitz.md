@@ -37,7 +37,7 @@ Das Fleisch nun aus der Brühe herausnehmen und gegen die Faser aufschneiden.
 
 Die Brühe durch ein feines Sieb passieren.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)
 
 
 

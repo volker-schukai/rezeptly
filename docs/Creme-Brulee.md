@@ -29,4 +29,4 @@ Die Förmchen auskühlen lassen und im Kühlschrank 2 Stunden durchkühlen.
 
 Jeweils 1 EL Zucker auf die Crème geben und karamellisieren.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)

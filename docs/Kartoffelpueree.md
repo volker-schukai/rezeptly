@@ -29,4 +29,4 @@ Stampfen und die restliche Milch zugeben (je nach gewünschter Festigkeit mehr o
 
 Abschmecken
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)

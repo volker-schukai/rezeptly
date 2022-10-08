@@ -36,4 +36,4 @@ Den Teig in eine gefettete oder mit Backpapier ausgelegte Form füllen.
 
 Bei ca. 190° mindestens 60 Minuten backen.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)

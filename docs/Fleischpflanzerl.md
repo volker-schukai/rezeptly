@@ -26,4 +26,4 @@ Die Masse gut verkneten und abschmecken (Salz, Pfeffer,  Oregano, Majoran)
 
 In Olivenöl braten.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)

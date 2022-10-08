@@ -38,7 +38,7 @@ Jetzt das Soffritto hinzugeben. Weiter köcheln lassen.
 
 Mit Salz, Pfeffer und Oregano abschmecken.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)
 
 
 

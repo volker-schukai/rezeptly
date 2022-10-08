@@ -24,5 +24,5 @@ Abwechselnd Mehl-, Backpulvergemisch und 100 ml Milch zu der Butter geben.
 
 Den Teig in die Form füllen und etwa 60 Minuten backen.
 
-[Rezeptuebersicht](./Rezeptuebersicht.md)
+[Rezeptuebersicht](./index.md)
 
