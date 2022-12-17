@@ -17,7 +17,7 @@ Und, Lebensmittel haben **auch** Gefühle. Ansonsten viel Spaß beim ausprobiere
 
 ## Backen
 
-- [Mini Burger Brötchen](./Mini%20Burger%20Brötchen.md)
+- [Mini Burger Brötchen](./Mini-Burger-Broetchen.md)
 
 ## Beilagen
 
