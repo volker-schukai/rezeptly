@@ -40,7 +40,7 @@ Und, Lebensmittel haben **auch** Gefühle. Ansonsten viel Spaß beim ausprobiere
 
 - [Einfacher Kaffeekuchen](./Einfacher-Kaffeekuchen.md)
 - [Gugelhupf](./Gugelhupf.md)
-- [Apfelkuchen aus der Springform](./Apfelkuchen%20aus%20der%20Springform.md)
+- [Apfelkuchen aus der Springform](./Apfelkuchen-aus-der-Springform.md)
 
 ---
 
