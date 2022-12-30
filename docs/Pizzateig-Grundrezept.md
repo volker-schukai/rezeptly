@@ -1,4 +1,4 @@
-# Pizzateig
+# Pizzateig Grundrezept
 
 ## Vorbereitung
 
@@ -19,6 +19,6 @@ Solange kneten, bis der Teig weich und geschmeidig ist.
 
 Danach in einem verschließbaren Behälter mindestens drei Stunden ruhen lassen. 
 
-Teig mit der Hand auseinanderziehen.
+Teig mit der Hand auseinander ziehen.
 
 [Rezeptuebersicht](./index.md)

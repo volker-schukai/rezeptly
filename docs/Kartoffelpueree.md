@@ -8,8 +8,8 @@
 | 400 g | Milch              |
 |  50 g | Butter             |
 |   5 g | Salz               |
-|     2 | Muskat             |
-| 4 g      | Kurkuma                   |
+|   1 g | Muskatnuss         | 
+|   4 g | Kurkuma            |
 
 ## Zubereitung
 
